@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
     var headArr = ["HD", "Movies", "Series"]
     
-    var dataArr = [["HD1","HD2","HD3","HD4","HD5","HD5"],["K3G","Phantom","Spiderman","DDLJ","MS"],["S1","S2","S3","S44"]]
+    var dataArr = [["HD1","HD2","HD3","HD4","HD5","HD5","HD5","HD5","HD5","HD5"],["K3G","Phantom","Spiderman","DDLJ","MS"],["S1","S2","S3","S44"]]
 
     override func viewDidLoad() {
         super.viewDidLoad()
